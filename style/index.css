@@ -1,0 +1,37 @@
+.bg-black{
+height: 70px;
+
+}
+
+.input-group input::placeholder{
+  color: rgb(104, 106, 106);
+}
+
+.dropdown:hover .dropdown-menu{
+  display: block;
+}
+
+
+
+.dropdown-toggle::after{
+  display: none;
+}
+
+.container-fluide{
+  overflow-x: hidden !important;
+}
+
+/* .content::before{
+content: "";
+ width: 50px;
+ color: #0c0808;
+ height: 20px;
+
+
+} */
+
+
+#img-slider{
+
+  background-image: url("https://d32baadbbpueqt.cloudfront.net/Homepage/f2e2157b-1c8d-4885-9c59-8b4235bb18bd.png");
+}
